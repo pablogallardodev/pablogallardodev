@@ -2,7 +2,7 @@
 <p align="center">
 	<h1 align="center">Hola!!! 👋, yo soy </br>Pablo Gallardo </h1>
 </p>
-<p align="center"><strong>Ingeniero en Sistemas Computacionales👨‍🎓</strong>, apasionado por ser desarrollador, aprender y aplicar nuevas tecnologías. Actualmente soy <strong>desarrollador Front-End💻🖱</strong> para una consultora. Un hobby es poder compartir mis conocimientos📹📺, para que los demás puedan aprender más. <strong>Por último, pero no menos importante soy de México.🌮🌮</strong></p>
+<p align="center"><strong>Ingeniero en Sistemas Computacionales 👨‍🎓</strong>, apasionado por ser desarrollador, aprender y aplicar nuevas tecnologías. Actualmente soy <strong>desarrollador Front-End 💻 🖱</strong> para una consultora. Un hobby es poder compartir mis conocimientos 📹 📺, para que los demás puedan aprender más. <strong>Por último, pero no menos importante soy de México. 🌮 🌮</strong></p>
 <p align="center">Puedes seguirme aquí:</p>
 <p align="center">
 	<a href="https://www.youtube.com/channel/UCS-YoU7f8PztGHBd4OD9RSw">
