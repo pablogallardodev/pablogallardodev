@@ -5,13 +5,13 @@
 <p align="center">Soy Desarrollador JavaScript Full Stack.</p>
 <p align="center">
 	<a href="https://www.youtube.com/channel/UCS-YoU7f8PztGHBd4OD9RSw">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="40px" width="40px" />
+		<img align="center" src="icons/youtube.svg" height="40px" width="40px" />
 	</a>
 	<a href="https://www.instagram.com/pablogallardo.dev">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40px" width="40px" />
+		<img align="center" src="icons/instagram.svg" height="40px" width="40px" />
 	</a>
 	<a href="https://www.twitch.tv/pablogallardodev">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" height="40px" width="40px" />
+		<img align="center" src="icons/twitch.svg" height="40px" width="40px" />
 	</a>
 </p>
 </br></br></br></br>
