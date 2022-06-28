@@ -4,12 +4,9 @@
 </p>
 <p align="center">Soy Desarrollador JavaScript Full Stack.</p>
 <p align="center">
-	<a href="https://www.youtube.com/channel/UCS-YoU7f8PztGHBd4OD9RSw">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="40px" width="40px" />
-	</a>
-	<a href="https://www.instagram.com/pablogallardo.dev">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40px" width="40px" />
-	</a>
+	**Social Media:**
+	[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+	[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
 	<a href="https://www.twitch.tv/pablogallardodev">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" height="40px" width="40px" />
 	</a>
@@ -19,16 +16,6 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablogallardodev&show_icons=true" /></br></br>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablogallardodev&layout=compact" />
 </p>
-
-**Social Media:**
-
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
 
 **Currently working with:**
 
