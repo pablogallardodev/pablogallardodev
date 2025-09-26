@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://user-images.githubusercontent.com/38090176/176254739-9b06d30d-082c-4325-be19-30acc647b4a3.png" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/6d430ac6-dba0-4061-a12f-ae012f2a5d41" />
 <p align="center">
 	<h1 align="center">Hola!!! 👋, yo soy </br>Pablo Gallardo </h1>
 </p>
