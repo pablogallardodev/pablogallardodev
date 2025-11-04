@@ -2,9 +2,20 @@
 <p align="center">
 	<h1 align="center">Hola!!! 👋, yo soy </br>Pablo Gallardo </h1>
 </p>
-<p align="center"><strong>Ingeniero en Sistemas Computacionales 👨‍🎓</strong>, apasionado por ser desarrollador, aprender y aplicar nuevas tecnologías. Actualmente soy <strong>desarrollador Front-End 💻 🖱</strong> para una consultora. Un hobby es poder compartir mis conocimientos 📹 📺, para que los demás puedan aprender más. <strong>Por último, pero no menos importante soy de México. 🌮 🌮</strong></p>
-<p align="center">Puedes seguirme aquí:</p>
-<p align="center">
+<h3>Coordinador de Desarrollo 👨🏻‍💼 | Back-End y Front-End</h3>
+<p>
+  La base de mi experiencia profesional es <strong>.NET</strong> ⚙️. Me dedico a la 
+  <strong>gestión de proyectos y la coordinación de equipos</strong> para entregar soluciones robustas.
+</p>
+<p>
+  🧠 <strong>Siempre aprendiendo:</strong> Inmerso en <strong>React</strong>⚛️, frameworks de JavaScript, y el mundo del 
+  <strong>desarrollo iOS nativo</strong> 📱.
+</p>
+<p>
+  💡 Soy de 🇲🇽 México y un entusiasta de <strong>compartir conocimiento</strong> (📹 videos y charlas) para la comunidad.
+</p>
+<p>Puedes seguirme aquí:</p>
+<p>
 	<a href="https://www.youtube.com/channel/UCS-YoU7f8PztGHBd4OD9RSw">
 		<img align="center" src="icons/youtube.png" height="40px" width="40px" />
 	</a>
